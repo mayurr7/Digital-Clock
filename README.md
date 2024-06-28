@@ -1,0 +1,1 @@
+A simple and elegant digital clock application implemented using HTML, CSS, and JavaScript. This project demonstrates basic web development skills and provides a visually appealing and functional digital clock that can be used in various web applications.
